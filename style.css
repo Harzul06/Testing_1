@@ -304,7 +304,7 @@ footer span:hover{
     display: block;
   }
   
-  .change{
-    justify-content: space-around;
+  ul{
+    justify-content: space-evenly;
   }
 }
